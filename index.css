@@ -3,18 +3,18 @@ body{
 }
 .one{
 	background-color: #315b8a;
-	min-height: 8000px;
+	min-height: 100vh;
 }
 
 .two{
 	background-color: #ff5c00;
-	height: 8000px;
-	overflow: hidden;
+	height: 100vh;
+	/*overflow: hidden;*/
 }
 
 .three{
 	background-color: #231F20;
-	height: 8000px;
+	height: 100vh;
 }
 
 p{
