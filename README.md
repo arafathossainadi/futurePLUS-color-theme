@@ -1,1 +1,0 @@
-# futurePLUS-color-theme

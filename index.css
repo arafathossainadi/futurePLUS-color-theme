@@ -1,0 +1,22 @@
+body{
+	overflow: hidden;
+}
+.one{
+	background-color: #315b8a;
+	min-height: 8000px;
+}
+
+.two{
+	background-color: #ff5c00;
+	height: 8000px;
+	overflow: hidden;
+}
+
+.three{
+	background-color: #231F20;
+	height: 8000px;
+}
+
+p{
+	display: none;
+}
